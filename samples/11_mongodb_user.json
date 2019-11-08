@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5d8078afdee9a80007dd78d7"},"username":"alice","sex":"female","timestamp":{"$date":{"$numberLong":"1559891638"}},"created_at":{"$date":{"$numberLong":"1568700591624"}},"updated_at":{"$date":{"$numberLong":"1568700591624"}}}
+{"_id":{"$oid":"5d8078afdee9a80007dd78d8"},"username":"bob","sex":"male","timestamp":{"$date":{"$numberLong":"1568700591624"}},"created_at":{"$date":{"$numberLong":"1568700591624"}},"updated_at":{"$date":{"$numberLong":"1568700591624"}}}
+{"_id":{"$oid":"5d8078afdee9a80007dd78d9"},"username":"cat ","timestamp":{"$date":{"$numberLong":"1568700591625"}},"created_at":{"$date":{"$numberLong":"1568700591625"}},"updated_at":{"$date":{"$numberLong":"1568700591625"}}}

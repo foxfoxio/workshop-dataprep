@@ -1,0 +1,8 @@
+Changed database context to 'FOO_DB'.
+PurchaseID,FruitType,FruitColor,Price
+------------,----------,----------,-------------
+1,Apple,Red,10
+2,Banana,Green,11
+3,Banana,Yellow,12
+
+(3 rows affected)
