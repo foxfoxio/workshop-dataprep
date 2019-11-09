@@ -1,5 +1,5 @@
 transactionId,userId,price,pid
 5d8078afdee9a80007dd78d6,u1,100,a1
-5d8078afdee9a80007dd78d7,u1,100,a2
+5d8078afdee9a80007dd78d7,u1,100,a1
 5d8078afdee9a80007dd78d8,u2,70,b1
-5d8078afdee9a80007dd78d9,u3,50,b2
+5d8078afdee9a80007dd78d9,u3,50,b3
